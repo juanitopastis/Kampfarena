@@ -6,6 +6,7 @@ namespace ConsoleApp2
     {
         public Berserker()
         {
+        // test
         }
 
         public override void Fähigkeit()
