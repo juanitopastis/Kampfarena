@@ -12,6 +12,9 @@ namespace ConsoleApp2
         public override void Fähigkeit()
         {
             // berserker bekommen 20% mehr auf stärke
+            //asdsad
+
+            //asdasd
             
             throw new NotImplementedException();
         }
